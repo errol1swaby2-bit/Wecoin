@@ -1,3 +1,6 @@
+**v0.6 is up with the wecoin mvp**
+**they are tagged into this repo**
+**at the current moment i dont** **know how to push it into main.**
 # WeCoin
 
 WeCoin is a lightweight, Python-Rust hybrid cryptocurrency ledger designed for integration with decentralized social protocols. It provides account management, pool-based reward distribution, and eligibility tracking for creators, jurors, and operators.
